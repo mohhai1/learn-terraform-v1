@@ -1,1 +1,1 @@
-region_id = "us-east-1"
+region_id = "us-east-2"
