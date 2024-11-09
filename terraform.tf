@@ -31,3 +31,5 @@ resource "aws_vpc" "haidar" {
 variable "region_id" {
   
 }
+
+#
